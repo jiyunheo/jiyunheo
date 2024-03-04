@@ -8,7 +8,7 @@
 ![jiyunheo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyunheo&show_icons=true&theme=onedark)  [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=mumin98)](https://solved.ac/profile/mumin98)
 
 
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/Solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white">  
 
 <!--
 **jiyunheo/jiyunheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
